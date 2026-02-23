@@ -12,8 +12,8 @@ jm_albums = '''
 jm_photos = '''
 
 
-
-'''
+JM1283437
+''' 
 
 
 def env(name, default, trim=('[]', '""', "''")):
